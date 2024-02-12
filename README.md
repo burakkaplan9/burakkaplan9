@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I'm currently learning software<br>🎓I graduated from Süleyman Demirel University<br>⛏️I'm a mining engineer<br>👑I'm improving myself JS<br>
+👀 I'm currently learning software<br>🎓I graduated from Süleyman Demirel University<br>⛏️I'm a mining engineer<br>👑I'm improving myself JS, React<br>
 
 
 ## 🌐 Socials:
